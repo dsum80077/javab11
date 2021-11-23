@@ -5,3 +5,8 @@ Classification of Computer on the basis of size
 2. Mini Computer
 3. Mainframe Computer
 4. Super Computer
+Accessories of Computer
+1. Graphics card
+2. Processer
+3. Ram
+4. Harddisk
