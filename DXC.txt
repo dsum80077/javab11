@@ -1,1 +1,2 @@
-Hello : How Are You ?
+Hello ! How Are You ?
+Computer is an electronics device that calculates numbers
