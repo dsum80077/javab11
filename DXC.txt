@@ -5,3 +5,8 @@ Classification of Computer on the basis of size
 2. Mini Computer
 3. Mainframe Computer
 4. Super Computer
+Classification of Computer on basis of Hardware
+1. CPU
+2. Moniter
+3. Mouse
+4. Keyboard
